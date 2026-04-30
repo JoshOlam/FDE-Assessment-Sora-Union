@@ -65,4 +65,4 @@ When the program runs, you will be greeted with an interactive prompt. You can a
 
 ## Video Walkthrough
 
-A complete conversational video script covering the problem framing, solution architecture, tradeoffs, and iteration process can be found in the [VIDEO_SCRIPT.md](VIDEO_SCRIPT.md) file.
+A complete conversational video covering the problem framing, solution architecture, tradeoffs, and iteration process can be found in this [Loom video](https://www.loom.com/share/78016cbad0394bbab7343a5586cacee4).
